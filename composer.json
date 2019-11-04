@@ -1,0 +1,23 @@
+{
+  "type": "library",
+  "name": "edshop/ip2region",
+  "description": "Ip2Region for PHP",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "jarmin",
+      "email": "edshop@qq.com"
+    }
+  ],
+  "keywords": [
+    "Ip2Region"
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "classmap": [
+      "Ip2Region.php"
+    ]
+  }
+}
